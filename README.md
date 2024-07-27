@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
    ```
-  https://github.com/harshh0710/recipe-website.git
+   https://github.com/harshh0710/recipe-website.git
    ```
 2. **Navigate to the project directory:**
    ```
